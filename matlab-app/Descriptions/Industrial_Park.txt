@@ -1,0 +1,3 @@
+The given load profile depicts the variations of electricity load of an industrial park with an electric-heat system which provide electricity and heating facility to all its users.
+
+Industrial parks have a constant power demand as the production in industries continues 24/7. During the day the demand is averagely 50 MW. The load profile has 2 very sharp peaks the latter one (8PM to 11PM) which occurs during night is because of the additional lighting and heating load. The other peak occurs in the early morning when the shift starts at industries (7 AM to 9AM). This can attributed to the startup of machines and boiler rooms that are required for production purposes.

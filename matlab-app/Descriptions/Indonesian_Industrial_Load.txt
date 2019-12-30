@@ -1,0 +1,3 @@
+Daily load profile for an industry where the electricity consumption can be attributed to the operations of mechanical machinery and equipment, electricity-driven thermal equipment (i.e. induction furnace and electric heater), heating, ventilation and cooling (HVAC) facilities, lighting, as well as control and instrumentation systems.
+
+The load profile suggests that the main operation occurs after midnight as the power demand during those hours is high. This could be due to the fact that electricity tariff is low during off-peak hours, which could be economical for the industry.
