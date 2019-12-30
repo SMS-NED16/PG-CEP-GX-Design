@@ -1,0 +1,4 @@
+Indonesia's Industrial Load has the best load factor among all load profiles presented in this app.
+It also has the lowest overall per kWh cost of generation. This is not a coincidence, and is hardly surprising.
+The higher the load factor, the 'better' the usage of the plant's capacity to generate kWhs that, in turn, provide revenue.
+All other load profiles show a similar relationship between overall cost of generation and load factor. 
