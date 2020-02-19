@@ -1,0 +1,13 @@
+﻿This graph shows the average daily load profile for the electricity consumption pattern of Zambia's residential sector in 2008. This study was done alongside the annual electricity consumption survey to suggest policy options for suitable development of Zambia's electricity sector.
+
+Demand during the day (7AM to 2PM) is almost constant i.e. at 1150 MW while after midnight hours it is very low. The demand becomes high during peak load hours i.e. between 8 PM and 11 PM because of the lighting load at night.
+
+COSTING
+Capital Cost = 10995.6/MW = 10,995,600/kW
+Interest, Depreciation, Discount Rate = 6pct, 7pct, 3pct = 16pct
+Transmission Cost = PKR136.4
+Operating Cost = 6.2/kWh
+So operating and maintenace cost = 2926.4/kWh
+Transmission Cost = PKR1,499,799.8
+Operating and Maintenance Cost = PKR7,814,794.8
+Overall Cost/kWh = PKR:131,256,667/331,093kWh = PKR39.64/kWh

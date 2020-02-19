@@ -1,0 +1,4 @@
+Electrical load profile of a commercial building (shopping center) in Indonesia. The original load profile in the case study includes shopping centers, hotels, private and government offices and hospitals. Load (kW) is on Y axis and time is on X axis. Since shopping centers have the highest electrical load due to major utilities including air conditioners and lighting systems, we have chosen this load profile for technical and economic analysis.
+
+
+The electricity consumption pattern for commercial buildings are usually periodic as commercial outlets, by law, operate in predefined hours. In this case, the shopping center opens around 9 AM and then continues to consume an almost constant amount of electricity (7000 KW) until its closing time, which is around 11 PM. After the closing there is low constant power demand of 1000 KW which can be attributed to the night lights, security systems and air condition of security rooms etc.

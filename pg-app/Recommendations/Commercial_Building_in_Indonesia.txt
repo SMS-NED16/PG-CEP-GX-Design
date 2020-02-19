@@ -1,0 +1,1 @@
+This type of non-varying load for specific period of time can be supplied with a steam power plant, as generating station can be setup before the peak load on the system is expected.

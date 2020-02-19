@@ -1,0 +1,1 @@
+With a load factor of 0.41, this load profile is a strong candidate for improvement. This load should either employ belly filling during the initial hours of the day, or use a generating solution that is inexpensive to switch on and off. 

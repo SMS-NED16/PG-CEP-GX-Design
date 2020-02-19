@@ -1,0 +1,41 @@
+﻿This is a load profile of an undisclosed commercial installation from an energy audit conducted by Huxham Energy, an Australian energy consulting firm.
+
+The load profile shows a lot of variation. The base load is only ~22 kW, but rises to a ~1100 kW around midday. Between 1 PM and 5 PM, there is constant variation of ~100 to 200 kW around 900 kW. Demand decreases eventually at night.
+
+COSTING
+Plant Capacity = 1600 kW
+
+Total Units of Energy Produced = 22215.5 kWh
+
+Interest, Depreciation, Discount Rate = 6pct, 7pct, 2pct = 15pct
+
+Capital Cost/kW = 1600 x 100 = 160,00
+
+Fixed Cost (salaries of management) = 240,000
+
+Assume 100,000 in semi-fixed costs
+
+Assuming 1 kg of lubricating oil used for every kWh of energy
+
+Therefore annual lubricating oil consumption = 22215.5/400 = 55.5 kg
+
+Annual annual cost of lubricating oil is therefore 55.0 x 126 = PKR6958
+
+Assuming 2.3 kg of fuel oil used for every 1 kWh
+
+Annual fuel oil consumption is therefore 22215.5/2.3 = 9658.5 kg
+
+Cost of Fuel Oil = 40 per kg
+
+Annual cost of fuel = 9658.5 times 40 = 386,356.5
+
+Salaries of Employees = 200,000
+
+Assume annual maintenance cost of 300,000
+
+TOTAL COSTS
+Total Fixed and Semi-Fixed Costs = 240,000 + 100,000 + 340,000
+
+Total Variable CCost = 386,356.5 + 6937.5 + 300,000 + 200,000 = 886,356.5
+
+Overall Cost per kWh = 886,356.5/22215.5 = 55.2/kWh

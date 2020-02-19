@@ -1,0 +1,1 @@
+﻿The gradual increase in demand during the day is a periodic trend for a residential consumer. Hence a hydroelectric or a diesel fuel based power plant can used to provide such load. The starting time for these power plants is very less hence can be used to manage peaks in the load curve.  

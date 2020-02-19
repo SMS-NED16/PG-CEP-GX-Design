@@ -1,0 +1,9 @@
+https://www.researchgate.net/publication/262618039_Policy_options_for_the_sustainable_development_of_Zambia's_electricity_sector
+
+COSTING
+Capital Cost = 10995.6/MW = 10,995,600/kW
+Interest, Depreciation, Discount Rate = 6pct, 7pct, 3pct = 16pct
+Transmission Cost = 136.4
+Operating Cost = 6.2 
+Units Consumed = 331,093
+So operating and maintenace cost = 2926.4
