@@ -12,8 +12,8 @@ Prepared as a Complex Engineering Problem (CEP)-based end-of-semester project fo
 |EE-171|Malik Zain-ul-Hassan|
 
 ## Deliverables
-1. [MATLAB GUI application](./pg-App/PG_App.mlapp') for the technical and economic analysis of 10 real-world load profiles. 
+1. [MATLAB GUI application](./pg-App/PG_App.mlapp) for the technical and economic analysis of 10 real-world load profiles. 
 2. 3D models of proposed generating station designs for 2 load profiles presented in the MATLAB application.
 	- [Nuclear Power Station Design](https://skfb.ly/6PT9R)
 	- [Diesel Power Station Design](https://skfb.ly/6PTtZ) 
-3. A [project report](./pg-cep-report.pdf') summarising findings and design recommendations.
+3. A [project report](./pg-cep-report.pdf) summarising findings and design recommendations.
