@@ -1,3 +1,0 @@
-Load profile analysis for commercial buildings' microgrids under demand response in Hangzhou region, China. The load profile originally simulated the load variations of commercial users in microgrids before and after the demand response. We have chosen the load pro
-
-Commercial buildings usually don't operate during the night time hence the demand is quite low at night. During the day the demand is moderate while at around 9 and 10 PM the peak demand occurs due to lighting and air conditioning load.

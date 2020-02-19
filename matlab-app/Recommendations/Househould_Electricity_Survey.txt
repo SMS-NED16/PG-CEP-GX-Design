@@ -1,3 +1,0 @@
-To manage this highly volatile load profile the generators at the power station should be turned on and off repeatedly. 
-
-The base load can be powered by a nuclear power plant while a diesel generator-based plant is suitable for managing peaks during high demand hours as they take less time to start up.

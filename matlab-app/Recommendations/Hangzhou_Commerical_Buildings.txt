@@ -1,3 +1,0 @@
-As before this load is manageable with a steam based power plant or a hydro power plant as the commercial load is periodic. 
-
-During the off time (after midnight) the power station can be shut down as the demand is very low, for energy savings.

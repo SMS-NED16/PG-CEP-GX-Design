@@ -1,9 +1,0 @@
-﻿The graph shows the load curve of a single day of 1,000 households with around 12 appliances each, composing thus an amount of approximately 12,000 simulation elements. This type of simulation can provide the relevance of a determined power consumer in the household consumption. 
-
-The 1,000 household sample is composed of a distribution of the different social groups according to real statistical data, in order to obtain a sample of households that is as close as possible to reality. 
-
-Similar to a typical residential load profile, the demand for power increases during the night time of peak load hours (8 PM to 11 PM) because of the lighting load. 
-
-The demand stays capped at around 400 KW during the day time (6 AM to 6 PM), with only occasional peaks occurring due to coincidental operation of heavy appliances. 
-
-While during the sleeping hours (after 12 AM to 5 AM) the demand is the lowest at 200 KW since only fans and air conditioning is used during those hours.

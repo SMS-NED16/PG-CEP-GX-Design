@@ -1,3 +1,0 @@
-There are several load profiles with low load factors and high overall generation cost per kWh.
-They would benefit from either increasing the number of units generated or decreasing the operation duration. 
-Alternatively, belly filling can be used to make better use of the generating station capacity.

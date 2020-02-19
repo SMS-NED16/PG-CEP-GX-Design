@@ -1,3 +1,0 @@
-﻿This graph shows the average daily load profile for the electricity consumption pattern of Zambia's residential sector in 2008. This study was done alongside the annual electricity consumption survey to suggest policy options for suitable development of Zambia's electricity sector.
-
-Demand during the day (7AM to 2PM) is almost constant i.e. at 1150 MW while after midnight hours it is very low. The demand becomes high during peak load hours i.e. between 8 PM and 11 PM because of the lighting load at night.

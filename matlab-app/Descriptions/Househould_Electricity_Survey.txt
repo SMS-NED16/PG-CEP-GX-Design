@@ -1,3 +1,0 @@
-This load profile shows the electricity demand for domestic use and water heating. For our CEP we have considered the demand during the winter season while the actual load profile compares demand during summer and winter, where the demand for heating during winters is quite high due to lower ambient external temperatures.
-
-The load curve has high variations, with the demand increasing in early morning and during the night time for a typical winter day. The peaks in the load curves are due to high demand for heating purposes as the ambient temperature in those hours are pretty low.

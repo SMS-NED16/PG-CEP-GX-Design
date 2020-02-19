@@ -1,3 +1,0 @@
-Averagely the demand is between 1,500 and 2,500 KW with occasional peaks during day time. 
-
-To supply such a load a diesel station can be used as they can handle occasional load peaks and have less standby losses.
