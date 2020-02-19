@@ -15,7 +15,7 @@ Details of the project are summarised in the [project report](./pg-cep-report.pd
 |EE-171|Malik Zain-ul-Hassan|
 
 ## Deliverables
-### [MATLAB GUI Application]
+### MATLAB GUI Application
 ![MATLAB Application Screen](./md-images/application-screen.png)
 
 - [A GUI application](./pg-app/PG_App.mlapp) for the technical and economic analysis of 10 real-world load profiles. Built with MATLAB App Designer R2014b.
@@ -27,7 +27,7 @@ Details of the project are summarised in the [project report](./pg-cep-report.pd
 - Also allows user to **compare** all load profiles in terms of both load factor and cost. 
 - Launches 3D models of proposed generating station designs deployed on Sketchfab.
 
-## Proposed Generating Station 3D Models
+### Proposed Generating Station 3D Models
 ![Nuclear Station Model](./md-images/nuclear-plant.png)
 
 - Designed in Blender.
